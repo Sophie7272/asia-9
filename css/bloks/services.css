@@ -1,0 +1,17 @@
+.service {
+  display: flex;
+}
+
+.service__img {
+  width: 28%;
+  margin-right: 7%;
+}
+
+.service__content {
+  flex: 1;
+}
+
+.service__title {
+  font-size: 36px;
+  font-weight: 700;
+}
